@@ -22,7 +22,8 @@ This App has Login system
 
 * You can see your posts on profile page and other users posts(except your posts) on main page
   
-%click on "start post" button to create a post 
+click on "start post" button to create a post 
+
 -To see current user details and Posts posted by user, click on either "view" button on navbar or user name 
 -After click on "See Your Posts" to see all post u posted
 -you will see all posts posted by you
