@@ -25,6 +25,9 @@ This App has Login system
 click on "start post" button to create a post 
 
 To see current user details and Posts posted by user, click on either "view" button on navbar or user name 
+
 After click on "See Your Posts" to see all post u posted
+
 you will see all posts posted by you
+
 to upadate, delete any post click on 3 dots
